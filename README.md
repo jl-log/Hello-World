@@ -1,2 +1,6 @@
 # Hello-World
-Repositories of folders and files, images, videos, spreadsheets, and data sets 
+
+Bonjour tout le monde!
+
+C'est JL votre partenaire.
+Je suis très passionné avec ce que nous voulons faire ensemble je pense que ça sera terrible !
